@@ -1,0 +1,36 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* appraisal_report
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-21 12:02+0000\n"
+"PO-Revision-Date: 2022-11-21 12:02+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: appraisal_report
+#: model:ir.actions.report,print_report_name:appraisal_report.action_appraisal_report
+msgid "'Appraisal Report for %s' % object.employee_id.name"
+msgstr "'%sتقرير التقييم ل' % object.employee_id.name"
+
+#. module: appraisal_report
+#: model:ir.actions.report,name:appraisal_report.action_appraisal_report
+msgid "Appraisal Report"
+msgstr "تقرير التقييم"
+
+#. module: appraisal_report
+#: model_terms:ir.ui.view,arch_db:appraisal_report.appraisal_report_template
+msgid "picture"
+msgstr ""
+
+#. module: appraisal_report
+#: model_terms:ir.ui.view,arch_db:appraisal_report.appraisal_report_template
+msgid "و لما"
+msgstr ""
